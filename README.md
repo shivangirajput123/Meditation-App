@@ -1,4 +1,4 @@
-_#Meditation-App_
+# Meditation-App
 
 
 **This Project has provide very calm meditation music with different timings.**
